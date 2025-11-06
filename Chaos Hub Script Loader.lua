@@ -4,4 +4,7 @@ elseif game.PlaceId == 15135285305 then-- 15135285305 GEF
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Chaos-Trash/Chaos-Hub-Script/refs/heads/main/GEF%20obf.lua",true))()
 elseif game.GameId == 73754455 then-- 73754455 Game ID
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Chaos-Trash/Chaos-Hub-Script/refs/heads/main/Survive%20and%20Kill%20the%20Killers%20in%20Area%2051",true))()
+elseif game.GameId == 994732206 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Chaos-Trash/Chaos-Hub-Script/refs/heads/main/Blox%20Fruit%20Preview%20lua%20obf.lua",true))()
 end
+--https://raw.githubusercontent.com/Chaos-Trash/Chaos-Hub-Script/refs/heads/main/Blox%20Fruit%20Preview%20lua%20obf.lua
